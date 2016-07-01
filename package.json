@@ -14,6 +14,15 @@
     "node-xlsx": "^0.4.0"
   },
   "devDependencies": {
-    "mocha": "^2.4.5"
-  }
+    "mocha": "^2.4.5",
+    "webpack": "^1.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jungang/kqweb-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jungang/kqweb-system/issues"
+  },
+  "homepage": "https://github.com/jungang/kqweb-system#readme"
 }

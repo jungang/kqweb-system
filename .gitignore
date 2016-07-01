@@ -68,14 +68,14 @@ build/
 *.tlb
 *.tli
 *.tlh
-*.tmp
+#*.tmp
 *.tmp_proj
 *.log
 *.vspscc
 *.vssscc
 .builds
 *.pidb
-*.log
+#*.log
 *.scc
 
 # Visual C++ cache files
@@ -146,7 +146,7 @@ sql/
 ClientBin/
 [Ss]tyle[Cc]op.*
 ~$*
-*~
+#*~
 *.dbmdl
 *.[Pp]ublish.xml
 *.pfx
@@ -194,7 +194,7 @@ $RECYCLE.BIN/
 *.egg
 *.egg-info
 dist/
-build/
+#build/
 eggs/
 parts/
 var/
@@ -214,3 +214,10 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+.idea/workspace.xml
+html/css/
+html/img/
+html/js/
+node_modules/.bin/webpack
+node_modules/.bin/webpack.cmd
+node_modules/webpack/
